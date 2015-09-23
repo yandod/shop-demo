@@ -1,0 +1,22 @@
+---
+layout: null
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
+    <title>{{ site.title | xml_escape }}</title>
+    <link rel="self" href="{{ site.url }}{{ site.baseurl }}"/>
+
+    {% for product in site.data.products limit:10 %}
+    <entry>
+        <g:id>{{ product.id }}</g:id>
+        <g:title>{{ product.title }}</g:title>
+        <g:description>{{ product.description }}</g:description>
+        <g:link>{{ product.link }}</g:link>
+        <g:image_link>{{ product.image_link }}</g:image_link>
+        <g:brand>{{ product.brand }}</g:brand>
+        <g:condition>new</g:condition>
+        <g:availability>in stock</g:availability>
+        <g:price>{{ product.price }}</g:price>
+    </entry>
+    {% endfor %}
+</feed>

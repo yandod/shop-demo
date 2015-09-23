@@ -1,0 +1,13 @@
+# Site settings
+title: yando demo shop
+email: yandod@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This shopping like demo site. never charge. never ship. nothing is recorded.
+baseurl: "/shop-demo/" # the subpath of your site, e.g. /blog/
+url: "http://yandod.github.io" # the base hostname & protocol for your site
+twitter_username: yando
+github_username:  yandod
+pixel_id: 768034349982254
+
+# Build settings
+markdown: kramdown
