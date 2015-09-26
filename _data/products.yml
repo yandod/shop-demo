@@ -3,6 +3,7 @@
   availability: in stock
   condition: new
   description: ESLスクールに行く時に作ったお弁当。そぼろは作りおきして活躍。
+  google_product_category: Business & Industrial > Food Service
   image_link: https://farm5.staticflickr.com/4035/4590271513_f86d022fa4_o.jpg
   link: https://yandod.github.io/shop-demo/products/pd001.html
   title: 三色ご飯弁当
@@ -13,6 +14,7 @@
   availability: in stock
   condition: new
   description: 大量に買ったじゃがいもを消費するレシピ。学校のお弁当にも。
+  google_product_category: Business & Industrial > Food Service
   image_link: https://farm5.staticflickr.com/4021/4651478743_f828afaec2_b.jpg
   link: https://yandod.github.io/shop-demo/products/pd002.html
   title: コロッケ弁当
@@ -23,6 +25,7 @@
   availability: in stock
   condition: new
   description: ちくわと野菜をタジン鍋で蒸すだけのスピードメニュー。さっぱりしていて助かる。
+  google_product_category: Business & Industrial > Food Service
   image_link: https://farm6.staticflickr.com/5066/5659351277_c2f59f8037_b.jpg
   link: https://yandod.github.io/shop-demo/products/pd003.html
   title: ちくわのタジン鍋
@@ -33,6 +36,7 @@
   availability: in stock
   condition: new
   description: 近所のデリのツナロール。火が通っていても美味しい。
+  google_product_category: Business & Industrial > Food Service
   image_link: https://farm4.staticflickr.com/3954/15660930731_baf0636b77_b.jpg
   link: https://yandod.github.io/shop-demo/products/pd004.html
   title: スパイシーツナロール
@@ -43,6 +47,7 @@
   availability: in stock
   condition: new
   description: 中華スープの素麺。ラーメンを食べたい気分をさっぱりと晴らします。
+  google_product_category: Business & Industrial > Food Service
   image_link: https://farm5.staticflickr.com/4102/4751009234_647e750c2f_b.jpg
   link: https://yandod.github.io/shop-demo/products/pd005.html
   title: 塩ラーメン風素麺
@@ -53,6 +58,7 @@
   availability: in stock
   condition: new
   description: アメリカのキャベツは固いのでしっかりと煮込みました。
+  google_product_category: Business & Industrial > Food Service
   image_link: https://farm5.staticflickr.com/4083/5067052800_e43a465a16_b.jpg
   link: https://yandod.github.io/shop-demo/products/pd006.html
   title: ロールキャベツ
@@ -63,6 +69,7 @@
   availability: in stock
   condition: new
   description: 天板に並べて焼くだけのドーボーイ。気分転換になります。
+  google_product_category: Business & Industrial > Food Service
   image_link: https://farm6.staticflickr.com/5598/15477715987_e63615fec1_b.jpg
   link: https://yandod.github.io/shop-demo/products/pd007.html
   title: チョコチップクッキー

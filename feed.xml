@@ -9,11 +9,12 @@ layout: null
     {% for product in site.data.products limit:10 %}
     <entry>
         <g:id>{{ product.id }}</g:id>
-        <g:title>{{ product.title }}</g:title>
-        <g:description>{{ product.description }}</g:description>
-        <g:link>{{ product.link }}</g:link>
-        <g:image_link>{{ product.image_link }}</g:image_link>
-        <g:brand>{{ product.brand }}</g:brand>
+        <g:title>{{ product.title | xml_escape }}</g:title>
+        <g:description>{{ product.description | xml_escape }}</g:description>
+        <g:google_product_category>{{ product.google_product_category | xml_escape }}</g:google_product_category>
+        <g:link>{{ product.link | xml_escape }}</g:link>
+        <g:image_link>{{ product.image_link | xml_escape }}</g:image_link>
+        <g:brand>{{ product.brand | xml_escape }}</g:brand>
         <g:condition>new</g:condition>
         <g:availability>in stock</g:availability>
         <g:price>{{ product.price }}</g:price>
