@@ -11,7 +11,9 @@ layout: default
 <p>
 {{ product.description }}
 </p>
-<a href="{{ "purchase/" | prepend: site.baseurl }}{{ product.id }}.html">購入</a>
+<button>
+  <a href="{{ "purchase/" | prepend: site.baseurl }}{{ product.id }}.html">購入</a>
+</button>
 
 <!-- Facebook Pixel Code -->
 <script>
