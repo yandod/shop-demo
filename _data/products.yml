@@ -3,10 +3,12 @@
   availability: in stock
   condition: new
   description: ESLスクールに行く時に作ったお弁当。そぼろは作りおきして活躍。
+  description_e: lunch box for ESL school. Japanese minced chiken, tastes like taco meat.
   google_product_category: Business & Industrial > Food Service
   image_link: https://farm5.staticflickr.com/4035/4590271513_f86d022fa4_o.jpg
   link: https://yandod.github.io/shop-demo/products/pd001.html
   title: 三色ご飯弁当
+  title_e: tricolor bento
   price: 200 JPY
   brand: sansyoku
 -
@@ -14,10 +16,12 @@
   availability: in stock
   condition: new
   description: 大量に買ったじゃがいもを消費するレシピ。学校のお弁当にも。
+  description_e: spent rest of potato in pantory.
   google_product_category: Business & Industrial > Food Service
   image_link: https://farm5.staticflickr.com/4021/4651478743_f828afaec2_b.jpg
   link: https://yandod.github.io/shop-demo/products/pd002.html
   title: コロッケ弁当
+  title_e: potato croquette bento
   price: 150 JPY
   brand: croquette
 -
@@ -25,10 +29,12 @@
   availability: in stock
   condition: new
   description: ちくわと野菜をタジン鍋で蒸すだけのスピードメニュー。さっぱりしていて助かる。
+  description_e: just steamed vegetables and fish cake.
   google_product_category: Business & Industrial > Food Service
   image_link: https://farm6.staticflickr.com/5066/5659351277_c2f59f8037_b.jpg
   link: https://yandod.github.io/shop-demo/products/pd003.html
   title: ちくわのタジン鍋
+  title_e: fish cake tajine pot
   price: 400 JPY
   brand: chikuwa
 -
@@ -36,10 +42,12 @@
   availability: in stock
   condition: new
   description: 近所のデリのツナロール。火が通っていても美味しい。
+  description_e: tuna roll from neighborhood deli.
   google_product_category: Business & Industrial > Food Service
   image_link: https://farm4.staticflickr.com/3954/15660930731_baf0636b77_b.jpg
   link: https://yandod.github.io/shop-demo/products/pd004.html
   title: スパイシーツナロール
+  title_e: spicy tuna roll
   price: 600 JPY
   brand: tunaroll
 -
@@ -47,10 +55,12 @@
   availability: in stock
   condition: new
   description: 中華スープの素麺。ラーメンを食べたい気分をさっぱりと晴らします。
+  description_e: Ramen like tasts noodle soup. easy replacement of Ramen.
   google_product_category: Business & Industrial > Food Service
   image_link: https://farm5.staticflickr.com/4102/4751009234_647e750c2f_b.jpg
   link: https://yandod.github.io/shop-demo/products/pd005.html
   title: 塩ラーメン風素麺
+  title_e: Shio-Ramen taste noodle soup
   price: 300 JPY
   brand: rasomen
 -
@@ -58,10 +68,12 @@
   availability: in stock
   condition: new
   description: アメリカのキャベツは固いのでしっかりと煮込みました。
+  description_e: rolled minced beef with cabbage.
   google_product_category: Business & Industrial > Food Service
   image_link: https://farm5.staticflickr.com/4083/5067052800_e43a465a16_b.jpg
   link: https://yandod.github.io/shop-demo/products/pd006.html
   title: ロールキャベツ
+  title_e: roll cabbage
   price: 600 JPY
   brand: rollcabagge
 -
@@ -69,9 +81,11 @@
   availability: in stock
   condition: new
   description: 天板に並べて焼くだけのドーボーイ。気分転換になります。
+  description_e: just baked with oven.
   google_product_category: Business & Industrial > Food Service
   image_link: https://farm6.staticflickr.com/5598/15477715987_e63615fec1_b.jpg
   link: https://yandod.github.io/shop-demo/products/pd007.html
   title: チョコチップクッキー
+  title_e: choco chip cookie
   price: 100 JPY
   brand: cookie
