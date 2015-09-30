@@ -18,6 +18,7 @@ layout: null
         <g:condition>new</g:condition>
         <g:availability>in stock</g:availability>
         <g:price>{{ product.price }}</g:price>
+        <g:product_type>{{ product.product_type }}</g:product_type>
     </entry>
     {% endfor %}
 </feed>

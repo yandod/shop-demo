@@ -1,6 +1,6 @@
 ---
 layout: null
 ---
-id	title	description	google_product_category	link	image_link	condition	availability	price	brand
-{% for product in site.data.products limit:10 %}{{ product.id }}	{{ product.title_e }}	{{ product.description_e }}	{{ product.google_product_category }}	{{ site.url }}{{ site.baseurl }}en/product/{{ product.id | xml_escape }}.html	{{ product.image_link }}	{{ product.condition }}	{{ product.availability }}	{{ product.price }}	{{ product.brand }}
+id	title	description	google_product_category	link	image_link	condition	availability	price	brand	product_type
+{% for product in site.data.products limit:10 %}{{ product.id }}	{{ product.title_e }}	{{ product.description_e }}	{{ product.google_product_category }}	{{ site.url }}{{ site.baseurl }}en/product/{{ product.id | xml_escape }}.html	{{ product.image_link }}	{{ product.condition }}	{{ product.availability }}	{{ product.price }}	{{ product.brand }}	{{ product.product_type }}
 {%endfor %}

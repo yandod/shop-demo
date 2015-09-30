@@ -11,6 +11,7 @@
   title_e: tricolor bento
   price: 200 JPY
   brand: sansyoku
+  product_type: bento
 -
   id: pd002
   availability: in stock
@@ -24,6 +25,7 @@
   title_e: potato croquette bento
   price: 150 JPY
   brand: croquette
+  product_type: bento
 -
   id: pd003
   availability: in stock
@@ -37,6 +39,7 @@
   title_e: fish cake tajine pot
   price: 400 JPY
   brand: chikuwa
+  product_type: meal
 -
   id: pd004
   availability: in stock
@@ -48,8 +51,9 @@
   link: https://yandod.github.io/shop-demo/products/pd004.html
   title: スパイシーツナロール
   title_e: spicy tuna roll
-  price: 600 JPY
+  price: 1500 JPY
   brand: tunaroll
+  product_type: meal
 -
   id: pd005
   availability: in stock
@@ -63,6 +67,7 @@
   title_e: Shio-Ramen taste noodle soup
   price: 300 JPY
   brand: rasomen
+  product_type: meal
 -
   id: pd006
   availability: in stock
@@ -76,6 +81,7 @@
   title_e: roll cabbage
   price: 600 JPY
   brand: rollcabagge
+  product_type: meal
 -
   id: pd007
   availability: in stock
@@ -89,3 +95,4 @@
   title_e: choco chip cookie
   price: 100 JPY
   brand: cookie
+  product_type: sweets
